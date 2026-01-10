@@ -1,0 +1,102 @@
+
+.ag{
+text-align: center;
+color: chartreuse;
+font-size: 80px;
+text-decoration: underline;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+li {
+    font-size: 30px;
+}
+.aa{
+    text-decoration: underline;
+    background-color: blue;
+    
+}
+.ab {
+    text-align: center;
+    background-color: darkorange;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ac , .an{
+    text-align: center;
+    background-color: darkorange;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ad,.ae, .ao{
+font-size: 30px;
+}
+.af, .mm {
+    font-style: oblique;
+    font-size: 50px;
+   text-align: center; 
+   word-spacing: 10px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.images{align-self: flex-end;}
+.ah {
+    text-align: center;
+    background-color: darkorange;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ai, .aj, .al, .am {
+    color: blue;
+}
+.ap {
+    font-size: 50px;
+    font-style: italic;
+    color: darkgreen;
+    text-decoration: underline;
+}
+.aq {
+    font-style: italic;
+    font-size: 30px;
+}
+.ar, .ax, .bc {
+    font-size: 40px;
+    font-style: normal;
+    color: gold;
+}
+.as,.at,.au,.av,.ay,.az,.ba,.bb,.bd,.be,.bf {
+  font-size: 30px;  
+}
+.aw {
+    color: rebeccapurple;
+}
+.bg{
+    color: chocolate;
+}
+.bh{
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+.bi{
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    color: olive;
+}
+.bj{
+    text-align: right;
+    text-indent: 50px;
+}
+.cf{
+color: darkgoldenrod;
+text-align: center;
+font-weight: 20px;
+font-size: 30px;
+}
+body{
+    background-color: coral;
+}
