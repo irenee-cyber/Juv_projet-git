@@ -2,42 +2,43 @@
 .ag{
 text-align: center;
 color: chartreuse;
-font-size: 80px;
+font-size: 40px;
 text-decoration: underline;
 }
 h2 {
     text-align: center;
     font-style: italic;
-    font-size: 50px;
+    font-size: 30px;
 }
 li {
-    font-size: 30px;
+    font-size: 18px;
 }
 .aa{
     text-decoration: underline;
-    background-color: blue;
+    background-color: orangered;
+    font-size: 30px;
     
 }
 .ab {
     text-align: center;
-    background-color: darkorange;
-    font-size: 40px;
+    background-color: lawngreen;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 .ac , .an{
     text-align: center;
-    background-color: darkorange;
-    font-size: 40px;
+    background-color:lawngreen;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 .ad,.ae, .ao{
-font-size: 30px;
+font-size: 18px;
 }
 .af, .mm {
     font-style: oblique;
-    font-size: 50px;
+    font-size: 30px;
    text-align: center; 
-   word-spacing: 10px;
+   word-spacing: 0px;
    display: flex;
    justify-content: space-between;
 }
@@ -45,45 +46,46 @@ font-size: 30px;
 .images{align-self: flex-end;}
 .ah {
     text-align: center;
-    background-color: darkorange;
-    font-size: 40px;
+    background-color: lawngreen;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 .ai, .aj, .al, .am {
     color: blue;
 }
 .ap {
-    font-size: 50px;
+    font-size: 20px;
     font-style: italic;
     color: darkgreen;
     text-decoration: underline;
 }
 .aq {
     font-style: italic;
-    font-size: 30px;
+    font-size: 25px;
 }
 .ar, .ax, .bc {
-    font-size: 40px;
+    font-size: 25px;
     font-style: normal;
     color: gold;
 }
 .as,.at,.au,.av,.ay,.az,.ba,.bb,.bd,.be,.bf {
-  font-size: 30px;  
+  font-size: 18px;  
 }
 .aw {
     color: rebeccapurple;
+    font-size: 35px;
 }
 .bg{
     color: chocolate;
 }
 .bh{
     font-style: italic;
-    font-size: 50px;
+    font-size: 25px;
     text-align: center;
 }
 .bi{
     font-style: italic;
-    font-size: 50px;
+    font-size: 25px;
     text-align: center;
     color: olive;
 }
@@ -95,8 +97,8 @@ font-size: 30px;
 color: darkgoldenrod;
 text-align: center;
 font-weight: 20px;
-font-size: 30px;
+font-size: 25px;
 }
 body{
-    background-color: coral;
+    background-color: lemonchiffon;
 }
